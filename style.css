@@ -1,0 +1,24 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin-top: 20px;
+color: blue;
+background-color: aquamarine;
+text-decoration: double;
+text-align: center;
+font-size: 40px;
+}
+.btn
+{
+    text-align:center;
+    font-size:x-large;
+    color: chartreuse;
+    background-color: chocolate;
+}
